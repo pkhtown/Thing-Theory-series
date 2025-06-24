@@ -1,6 +1,3 @@
-Here lies a 4.5-part essay series on phenomenology, semantic reduction, metacognition, and most importantly, "things".
-
-
 <h3><b>Thing Theory: An Explorative Approach to Phenomenological Analysis (or “Doing Math on Words”)</b></h3>
 
 An explorative, user friendly approach to examining knowledge models and their structure while justifying the examination methods via metamodels.
