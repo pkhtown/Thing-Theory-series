@@ -21,3 +21,5 @@ A meta-analysis of models and complementarity which asserts a correlation betwee
 <h3><b>4.5</b></h3>
 
 A recapitulation of things.
+
+mindmathmusic.com/math
