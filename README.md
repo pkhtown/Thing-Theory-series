@@ -25,4 +25,4 @@ A recapitulation of things.
 
 <b>Website</b>
 
-mindmathmusic.com/math
+<a href src="mindmathmusic.com/math">mindmathmusic.com/math</a>
