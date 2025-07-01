@@ -1,4 +1,4 @@
-<h3><b>Thing Theory: An Explorative Approach to Phenomenological Analysis (or “Doing Math on Words”)</b></h3>
+<h3><b>Thing Theory: An Explorative Approach to Phenomenological Analysis </b>(or “Doing Math on Words”)</h3>
 
 An explorative, user friendly approach to examining knowledge models and their structure while justifying the examination methods via metamodels.
 
